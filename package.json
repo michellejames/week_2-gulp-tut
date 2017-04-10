@@ -1,0 +1,11 @@
+{
+  "name": "gulp-tut",
+  "version": "1.0.0",
+  "description": "Gulp tutorial for Frameworks Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michelle James <shellyjames90@yahoo.com>",
+  "license": "ISC"
+}
